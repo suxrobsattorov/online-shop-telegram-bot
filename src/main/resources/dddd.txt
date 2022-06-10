@@ -1,0 +1,32 @@
+-- category
+-- insert into category(name) values ('Elektron asboblar');
+-- insert into category(name) values ('Oziq-ovqatlar');
+-- insert into category(name) values ('Maishiy terxnika');
+-- insert into category(name) values ('Kiyimlar');
+-- insert into category(name) values ('Kans tovar');
+
+-- shops
+-- insert into shops(id, name) values (1, 'HAVAS');
+-- insert into shops(id, name) values (2, 'MACRO');
+-- insert into shops(id, name) values (3, 'KORZINKA');
+-- insert into shops(id, name) values (4, 'VIP BRAND');
+
+-- product
+-- insert into products(id, name, price, top) values (1, 'Olma', 10000, false);
+-- insert into products(id, name, price, top) values (2, 'Shim', 100000, false);
+-- insert into products(id, name, price, top) values (3, 'Anor', 20000, false);
+-- insert into products(id, name, price, top) values (4, 'Telefon', 2000000, false);
+-- insert into products(id, name, price, top) values (5, 'Ruchka', 1000, false);
+-- insert into products(id, name, price, top) values (6, 'Muzlatkich', 10000000, false);
+
+-- -- -- -- cashback
+-- insert into cashback(id, name, number, balance) values (1, 'Cashback', '1111675478654593', 1000);
+-- insert into cashback(id, name, number, balance) values (2, 'Cashback', '1111675478768593', 1000);
+-- insert into cashback(id, name, number, balance) values (3, 'Cashback', '1111675478654594', 1000);
+-- insert into cashback(id, name, number, balance) values (4, 'Cashback', '1111675478654563', 1000);
+
+-- -- card
+-- insert into cards(id, name, number, balance) values (1, 'HUMO', '1111675476654593', 100000);
+-- insert into cards(id, name, number, balance) values (2, 'HUMO', '1111675458768593', 10000);
+-- insert into cards(id, name, number, balance) values (3, 'UZCARD', '1111698478654594', 1000);
+-- insert into cards(id, name, number, balance) values (4, 'HUMO', '1111675434654563', 1000000);
